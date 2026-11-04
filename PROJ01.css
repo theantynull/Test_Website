@@ -1,0 +1,73 @@
+body{
+    background-color: #fce4ec;
+    color: #074b2f;
+    margin-left: 3%;
+}
+
+#about{
+    text-align: left;
+}
+
+#page01{
+    width:80%;
+    height: 1000px;
+    align-content: center;
+}
+
+#name{
+    font-size: 30px;
+}
+
+#intro{
+    font-size: 22px;
+    line-height: 20px;
+    margin-left: 5px;
+}
+
+#keys1{
+    line-height: 60px;
+    font-size: 20px;
+}
+
+#keys2, #keys3 {
+    font-size: 22px;
+}
+
+#name{
+    line-height: 10px;
+}
+
+
+#head01{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0%;
+}
+
+#page02{
+    width: 80%;
+    height: 1000px;
+    font-size: 22px;
+}
+
+#head2{
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#pro1{
+    margin-left: 30px;
+    line-height: 10px;
+}
+
+#git{
+    font-size: 15px;
+}
+
+#calcu{
+    font-size: 15px;
+}
+
+#links{
+    color: #074b2f;
+    font-weight: bolder;
+}
